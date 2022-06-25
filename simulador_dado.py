@@ -91,12 +91,6 @@ img_dice05 = PhotoImage(
     file='E:\GitHub_MEU\Simulador_de_DADO_with_Python\img\dice_05.png')
 img_dice06 = PhotoImage(
     file='E:\GitHub_MEU\Simulador_de_DADO_with_Python\img\dice_06.png')
-
-# filen = r'"E:\GitHub_MEU\Simulador_de_DADO_with_Python\img\bitmap_dice.png"'
-# img = Image.open(filen)
-# img.save('E:\GitHub_MEU\Simulador_de_DADO_with_Python\img\bitmap_dice.png',
-#          format='ICO', sizes=[(32, 32)])
-
 # //////////////////////////////////////////////////////////END
 # Container
 fr_container01 = Frame(

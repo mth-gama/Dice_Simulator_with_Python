@@ -5,11 +5,8 @@ import pyautogui as pg
 import random
 from tkinter import *
 from Functions import *
-import pyautogui
 from PIL import Image
-import os
 
-# pyautogui.mouseInfo()
 # Config window
 root = Tk()
 root.title('Game Mater Play Dices')
